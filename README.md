@@ -12,7 +12,7 @@ A local, free question-answering bot for YouTube videos — fetches transcripts,
 ---
 
 ## 📂 Project Structure
-
+```
 youtube_qa_bot/
 ├── main.py
 ├── config.py
@@ -22,7 +22,7 @@ youtube_qa_bot/
 ├── qa/
 ├── data/
 └── ui/
-
+```
 
 ---
 
@@ -30,8 +30,8 @@ youtube_qa_bot/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/youtube-qa-bot.git
-cd youtube-qa-bot
+git clone https://github.com/yourusername/youtube_qa_bot.git
+cd youtube_qa_bot
 ```
 ### 2. Install dependencies
 ```bash
