@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# Data files
+data/transcripts/
+data/embeddings/
+data/cache/
+*.index
+*.txt
+
+# Models
+models/
+*.bin
+*.gguf
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+
